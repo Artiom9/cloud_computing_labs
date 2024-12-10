@@ -3,3 +3,8 @@ Added info in file.
 New commit in feature2.
 Another commit in feature2.
 And Another commit in feature2.
+New 1 commit in feature2.
+New 2 Another commit in feature2.
+New 3 Another commit in feature2.
+New 4 Another commit in feature2.
+New 5 Another commit in feature2.
